@@ -1,0 +1,10 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: E468-1F96
+
+ Directorio de C:\Users\dream\angular\mi_prueba2
+
+03/12/2020  15:23    <DIR>          .
+03/12/2020  15:23    <DIR>          ..
+03/12/2020  15:23                 0 salida.txt
+               1 archivos              0 bytes
+               2 dirs  329,759,698,944 bytes libres
